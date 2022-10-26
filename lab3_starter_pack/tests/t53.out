@@ -1,0 +1,67 @@
+Welcome to Rock, Paper, Scissors, Lizard, Spock!
+
+Please choose two players:
+(1) StupidBot
+(2) RandomBot
+(3) IterativeBot
+(4) LastPlayBot
+(5) Human
+Select player 1:Select player 2:Human vs. IterativeBot
+
+Round 1:
+(1) Rock
+(2) Paper
+(3) Scissors
+(4) Lizard
+(5) Spock
+Enter your move: Player 1 chose Rock
+Player 2 chose Rock
+Rock equals Rock
+Round was a tie
+
+Round 2:
+(1) Rock
+(2) Paper
+(3) Scissors
+(4) Lizard
+(5) Spock
+Enter your move: Player 1 chose Lizard
+Player 2 chose Paper
+Lizard eats Paper
+Player 1 won the round
+
+Round 3:
+(1) Rock
+(2) Paper
+(3) Scissors
+(4) Lizard
+(5) Spock
+Enter your move: Player 1 chose Paper
+Player 2 chose Scissors
+Scissors cut Paper
+Player 2 won the round
+
+Round 4:
+(1) Rock
+(2) Paper
+(3) Scissors
+(4) Lizard
+(5) Spock
+Enter your move: Player 1 chose Spock
+Player 2 chose Lizard
+Lizard poisons Spock
+Player 2 won the round
+
+Round 5:
+(1) Rock
+(2) Paper
+(3) Scissors
+(4) Lizard
+(5) Spock
+Enter your move: Player 1 chose Scissors
+Player 2 chose Spock
+Spock smashes Scissors
+Player 2 won the round
+
+Final score is 1 to 3
+Player 2 wins

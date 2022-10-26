@@ -1,0 +1,4 @@
+findall(Z, ancestor(Z,'Queen Victoria'), Y),
+print(Y),
+print('\n'),
+halt.

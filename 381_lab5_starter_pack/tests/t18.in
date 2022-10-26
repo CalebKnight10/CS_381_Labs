@@ -1,0 +1,4 @@
+son('Prince Albert', Y),
+print(Y),
+print('\n'),
+halt.

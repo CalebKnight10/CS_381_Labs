@@ -1,0 +1,4 @@
+father(X, 'Queen Victoria'),
+print(X),
+print('\n'),
+halt.

@@ -1,0 +1,4 @@
+findall(Z,parent(Z,'Queen Elizabeth II'),X),
+print(X),
+print('\n'),
+halt.

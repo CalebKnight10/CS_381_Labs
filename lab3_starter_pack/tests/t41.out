@@ -1,0 +1,42 @@
+Welcome to Rock, Paper, Scissors, Lizard, Spock!
+
+Please choose two players:
+(1) StupidBot
+(2) RandomBot
+(3) IterativeBot
+(4) LastPlayBot
+(5) Human
+Select player 1:Select player 2:LastPlayBot vs. StupidBot
+
+Round 1:
+Player 1 chose Rock
+Player 2 chose Rock
+Rock equals Rock
+Round was a tie
+
+Round 2:
+Player 1 chose Rock
+Player 2 chose Rock
+Rock equals Rock
+Round was a tie
+
+Round 3:
+Player 1 chose Rock
+Player 2 chose Rock
+Rock equals Rock
+Round was a tie
+
+Round 4:
+Player 1 chose Rock
+Player 2 chose Rock
+Rock equals Rock
+Round was a tie
+
+Round 5:
+Player 1 chose Rock
+Player 2 chose Rock
+Rock equals Rock
+Round was a tie
+
+Final score is 0 to 0
+Game was a draw

@@ -1,0 +1,5 @@
+debug off
+load tracks.txt
+count tracks
+count words
+count characters

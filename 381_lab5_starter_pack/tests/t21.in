@@ -1,0 +1,4 @@
+sibling(X, 'Queen Elizabeth II'),
+print(X),
+print('\n'),
+halt.

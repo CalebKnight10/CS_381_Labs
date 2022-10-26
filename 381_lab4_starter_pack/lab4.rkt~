@@ -1,0 +1,42 @@
+#lang racket
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;     CS 381 - Programming Lab #4	;
+;					;
+;  < Caleb Knight >			;
+;  < knightca@oregonstate.edu >	        ;
+;					;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+; your code here
+
+(define (f lst)
+  ; (a) ;
+  (if (null? lst)
+    ; (b) ;
+    '()
+    ; (c) ;
+    (cons (+ 1 (car lst)) (f (cdr lst)))))
+
+
+; Check if the input is a member of a given list
+(define (member? e lst)
+  (not(equal? (member e lst) #f)) ;if the input is equal return #t else return #f
+  )
+
+
+(define (set? lst) 
+   (if (member?(lst)))
+)
+
+;;;;;;;;;;;;;;;;;
+;  DO NOT EDIT  ;
+;;;;;;;;;;;;;;;;;
+; enables testing via piping in stdin
+(define-namespace-anchor anc)
+(define ns (namespace-anchor->namespace anc))
+(let loop ()
+  (define line (read-line (current-input-port) 'any))
+  (if (eof-object? line)
+    (display "")
+    (begin (print (eval (read (open-input-string line)) ns)) (newline) (loop))))

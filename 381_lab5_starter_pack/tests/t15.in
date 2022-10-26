@@ -1,0 +1,4 @@
+daughter('Queen Victoria', X),
+print(X),
+print('\n'),
+halt.

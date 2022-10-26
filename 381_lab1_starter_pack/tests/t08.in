@@ -1,0 +1,7 @@
+debug off
+stopwords off
+load tracks.txt
+preprocess
+count tracks
+count words
+count characters

@@ -1,0 +1,9 @@
+debug off
+load tracks.txt
+filter title
+filter comments
+filter punctuation
+filter unicode
+count tracks
+count words
+count characters

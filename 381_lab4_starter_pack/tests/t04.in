@@ -1,0 +1,5 @@
+(intersect '(x) '(x))
+(intersect '(x y z) '(x a y b c))
+(intersect '(x y z) '(a b z))
+(intersect '(green eggs) '(and ham))
+(intersect '(stewed tomatoes and macaroni) '(macaroni and cheese))

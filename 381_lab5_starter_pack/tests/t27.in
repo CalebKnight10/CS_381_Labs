@@ -1,0 +1,4 @@
+sister(X, 'King George VI'),
+print(X),
+print('\n'),
+halt.
